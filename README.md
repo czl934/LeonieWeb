@@ -1,1 +1,1 @@
-# LeonieWeb
+# LeonieWeb for Korean Language Learning
